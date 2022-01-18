@@ -25,7 +25,7 @@
 
 ## On the Importance of Security...
 
-> "Literally no one cares."
+> "Literally no one cares about Security."
 <br /><br />— My sister • [🌐](https://en.wikipedia.org/wiki/List_of_data_breaches)
 
 ## On the Secrets of High Output Individuals...
