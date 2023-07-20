@@ -11,18 +11,6 @@
 <br ><br >— Tom Cargill • [🌐](https://en.wikipedia.org/wiki/Ninety%E2%80%93ninety_rule)
 
 
-## On Expenditure...
-
-> Less, but better.
-<br ><br >— Dieter Rams • [🌐](https://gestalten.com/products/less-but-better)
-
-
-## On Rapid Deployment...
-
-> "You **must** ship it."
-<br/><br/>— [💻🐿](https://github.com/join)
-
-
 ## On the Importance of Security...
 
 > "Literally no one cares about Security."
